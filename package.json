@@ -1,0 +1,19 @@
+{
+  "name": "covalent-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "oynozan",
+  "license": "ISC",
+  "dependencies": {
+    "@covalenthq/client-sdk": "^0.8.8",
+    "dotenv": "^16.4.2",
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.9"
+  }
+}
